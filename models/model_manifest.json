@@ -6,7 +6,7 @@
     "framework": "pytorch-torchscript",
     "license": "MIT",
     "repo_url": "https://github.com/tomkaba/poker44-miner-ml15_7",
-    "repo_commit": "TO_BE_FILLED_AFTER_COMMIT",
+    "repo_commit": "e5193358f7d10140ea41c4a3dc68cb12168bf0b3",
     "inference_mode": "local",
     "training_data_statement": "Trained with benchmark groundtruth",
     "data_attestation": "This miner does not train on validator-private human data.",
